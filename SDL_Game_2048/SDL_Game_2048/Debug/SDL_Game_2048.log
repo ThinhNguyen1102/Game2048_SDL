@@ -1,0 +1,12 @@
+﻿  Game_state.cpp
+  Load_text.cpp
+  Mouse_button.cpp
+  SDL_Game_2048.cpp
+  box_game.cpp
+D:\Project\SDL_Game_2048\SDL_Game_2048\box_game.cpp(66,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  commonFunc.cpp
+  load_photo.cpp
+  logic_game.cpp
+D:\Project\SDL_Game_2048\SDL_Game_2048\logic_game.cpp(126,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SDL_Game_2048.vcxproj -> D:\Project\SDL_Game_2048\Debug\SDL_Game_2048.exe
